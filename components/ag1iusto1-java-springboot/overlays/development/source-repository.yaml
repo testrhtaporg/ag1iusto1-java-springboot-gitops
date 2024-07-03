@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ag1iusto1-java-springboot-repository
+spec:
+  url: https://github.com/testrhtaporg/ag1iusto1-java-springboot
